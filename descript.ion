@@ -1,0 +1,7 @@
+wiki_re_linux.cmd del all archive files and all html files, and reconstruct all the wiki
+wiki_re.cmd del all archive files and all html files, and reconstruct all the wiki
+wiki_old.cmd regenerate html files if mkd files update
+wiki_archive_linux.cmd update html files if mkd files changed. and regenerate relevant archive files
+wiki_archive.cmd update html files if mkd files changed. and regenerate relevant archive files
+del_html.cmd del all html file in archive and note folder
+del_archive.cmd del all file in archive folder
